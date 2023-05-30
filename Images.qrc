@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>dlp.png</file>
+        <file>lcos.png</file>
+        <file>lcd.png</file>
+        <file>module-40.jpeg</file>
+        <file>phon1.jpeg</file>
+        <file>phon2.jpg</file>
+        <file>phon3.jpg</file>
+        <file>phon4.jpg</file>
+        <file>phon5.jpg</file>
+        <file>phon6.png</file>
+        <file>phon7.jpg</file>
+        <file>1.png</file>
+        <file>keyboard.png</file>
+        <file>klava.avif</file>
+        <file>kliviatura.jpg</file>
+        <file>music.mp3</file>
+        <file>music.wav</file>
+        <file>ramm.mp3</file>
+    </qresource>
+</RCC>
